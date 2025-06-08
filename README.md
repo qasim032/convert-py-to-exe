@@ -8,7 +8,7 @@ First, install PyInstaller using pip:
 
 1. pip install pyinstaller
    
-Example: Convert QRCode.py to .exe
+Example: Convert .py to .exe
 Make sure you're in the same directory as your .py file.
 
 Open a terminal or command prompt and run:
